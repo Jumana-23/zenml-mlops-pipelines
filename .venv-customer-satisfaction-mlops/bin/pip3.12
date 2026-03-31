@@ -1,4 +1,4 @@
-#!/Users/jetblue23/Desktop/mlops-projects-course/.venv-customer-satisfaction-mlops/bin/python3.12
+#!/Users/jetblue23/Desktop/mlops-projects-course/.venv-customer-satisfaction-mlops/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
