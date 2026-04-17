@@ -5,3 +5,6 @@ Notes:
     - brew install cmake
     - cmake --version # checks version for you 
     - which cmake # where it is located 
+
+(3) zenml breaking because it depends on distutils which causes a break 
+    - solution 1: change zenml version >=0.66
