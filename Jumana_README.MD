@@ -7,4 +7,6 @@ Notes:
     - which cmake # where it is located 
 
 (3) zenml breaking because it depends on distutils which causes a break 
-    - solution 1: change zenml version >=0.66
+    - solution 1: change zenml version >=0.66 (this didnt work)
+    - solution 2: change python version to 3.11 (actually works and doesnt crash)
+    
